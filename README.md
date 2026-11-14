@@ -43,7 +43,6 @@ An interactive temperature conversion application that makes converting temperat
 - **JavaScript** – Interactive functionality
 
  Repository Structure
-
 OIBSIP/
 │
 ├── landingpage/
